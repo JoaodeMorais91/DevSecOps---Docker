@@ -1,0 +1,26 @@
+﻿Atividade Docker 
+Criando VPC:
+* Criar uma VPC selecionando a opção "VPC e muito mais" para a configuração automática de toda a rede.
+* Selecionando 2 zonas de disponibilidade.
+
+
+* Criando um Load balancer:
+*    * Tipo Aplication Load Balancer
+   * Esquema: Voltado para internet
+   * Grupo de segurança: "Default", configurado no início da atividade.
+   * Registrar a instância como destino no Target Group.
+Criando um Instância EC2:
+° Imagem AMI Amazon Linux 2
+° Subnet Pública 
+° Escolha de criação de um novo Security Group.
+° Tipo de instância sendo a T3 Small.
+
+
+Criando um RDS:
+° Escolha do MYSQL 
+° Conectando com uma instância criada anteriormente.
+° Criando um security Group automático.
+
+
+* Observações a serem feitas são de que não foram concluida a atividam  as configurações wordpress,  EFS e Auto Scaling Groups
+* de co
