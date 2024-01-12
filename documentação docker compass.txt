@@ -7,6 +7,7 @@
 
 * Depois foi feito a verificação da instalação com o comando:
 * docker-compose --version
+ * Em seguida foi criada um arquivo chamado Docker-compose.yml:
 
 Atividade Docker 
 Criando VPC:
