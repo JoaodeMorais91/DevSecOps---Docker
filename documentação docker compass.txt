@@ -20,6 +20,7 @@ Criando VPC:
    * Esquema: Voltado para internet
    * Grupo de segurança: "Default", configurado no início da atividade.
    * Registrar a instância como destino no Target Group.
+
 Criando um Instância EC2:
 ° Imagem AMI Amazon Linux 2
 ° Subnet Pública 
