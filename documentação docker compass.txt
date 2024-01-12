@@ -1,4 +1,14 @@
-﻿Atividade Docker 
+﻿* Pimeiro passo foi fazer a instalação do docker-compose:
+* *  sudo chmod +x /usr/local/bin/docker-compose
+
+* * * Em seguida foi dada a permissão com o seguinte comando: 
+* * sudo chmod +x /usr/local/bin/docker-compose
+* 
+
+* Depois foi feito a verificação da instalação com o comando:
+* docker-compose --version
+
+Atividade Docker 
 Criando VPC:
 * Criar uma VPC selecionando a opção "VPC e muito mais" para a configuração automática de toda a rede.
 * Selecionando 2 zonas de disponibilidade.
